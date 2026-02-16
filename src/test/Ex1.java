@@ -4,4 +4,6 @@ public class Ex1 {
 	// This is a new change in branch Ex1, which then got changed in master
 	
 	// After all that, master added a line down here
+	
+	// But the commiter in ex4 committed too much
 }
